@@ -1,0 +1,39 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        " A ",
+        "BCB",
+        "CCC"
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+            "item": "minecraft:book"
+        },
+
+        "B":
+        [
+        {
+            "item": "minecraft:diamond"
+        },
+        {
+            "item": "cacticraft:flint_glass"
+        }
+        ],
+
+        "A":
+        {
+            "item": "minecraft:obsidian"
+        }
+    },
+   
+    "result":
+    {
+        "item": "minecraft:enchanting_table",
+        "count": 1
+    }
+}

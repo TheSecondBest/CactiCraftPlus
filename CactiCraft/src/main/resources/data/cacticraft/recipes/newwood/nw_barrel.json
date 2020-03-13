@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "ABA",
+        "A A",
+        "ABA"
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+			"tag": "cacticraft:planks"
+        },
+        "B":
+        {
+			"tag": "cacticraft:wooden_slabs"
+        }
+    },
+   
+    "result":
+    {
+        "item": "minecraft:barrel",
+        "count": 1
+    }
+}

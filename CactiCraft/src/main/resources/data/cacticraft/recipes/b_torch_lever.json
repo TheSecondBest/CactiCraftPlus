@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "A",
+        "B"
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+            "item": "minecraft:coal"
+        },
+
+        "B":
+        {
+            "item": "minecraft:lever"
+        }
+    },
+   
+    "result":
+    {
+        "item": "cacticraft:torch_lever",
+        "count": 1
+    }
+}

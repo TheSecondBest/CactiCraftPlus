@@ -1,0 +1,12 @@
+{
+	"type": "smelting", 
+	
+	"ingredient": 
+	{ 
+		"item": "cacticraft:raw_silicate" 
+	},
+
+	"result": "cacticraft:kimberlite", 
+	"experience": 0.1, 
+	"cookingtime": 300 
+}

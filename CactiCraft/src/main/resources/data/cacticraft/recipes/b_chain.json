@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "A",
+        "A"
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+        	"item": "cacticraft:chainlinks"
+        }
+    },
+   
+    "result":
+    {
+        "item": "cacticraft:chain",
+        "count": 1
+    }
+}

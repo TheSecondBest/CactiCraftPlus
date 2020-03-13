@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "AAA"
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+            "item": "minecraft:sand"
+        }
+    },
+   
+    "result":
+    {
+        "item": "cacticraft:sand_slab",
+        "count": 6
+    }
+}

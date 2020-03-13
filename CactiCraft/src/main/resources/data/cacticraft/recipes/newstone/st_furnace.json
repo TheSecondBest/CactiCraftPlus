@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "AAA",
+        "A A",
+        "AAA"
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+            "tag": "cacticraft:stones"
+        }
+    },
+   
+    "result":
+    {
+        "item": "minecraft:furnace",
+        "count": 1
+    }
+}

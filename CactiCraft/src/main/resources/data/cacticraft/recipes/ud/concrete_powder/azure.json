@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "AAA",
+        "ABA",
+        "AAA"
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+			"tag": "cacticraft:concrete_powder"
+        },
+
+        "B":
+        {
+            "item": "minecraft:light_blue_dye"
+        }
+    },
+   
+    "result":
+    {
+        "item": "minecraft:light_blue_concrete_powder",
+        "count": 8
+    }
+}

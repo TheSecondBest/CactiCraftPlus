@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "cacticraft:block/slab_verdure" },
+        "type=top": { "model": "cacticraft:block/slab_verdure_top" },
+        "type=double": { "model": "cacticraft:block/verdure" }
+    }
+}

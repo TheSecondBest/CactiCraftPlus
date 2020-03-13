@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "AA",
+        "AA"
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+            "item": "minecraft:jungle_log"
+        }
+    },
+   
+    "result":
+    {
+        "item": "minecraft:jungle_wood",
+        "count": 4
+    }
+}

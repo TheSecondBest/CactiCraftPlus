@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "cacticraft:block/stripped_mangrove_log",
+        "side": "cacticraft:block/stripped_mangrove_log"
+    }
+}

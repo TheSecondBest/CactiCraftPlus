@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "AAA",
+        "ABA",
+        "AAA"
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+            "item": "minecraft:obsidian"
+        },
+
+        "B":
+        {
+            "item": "minecraft:diamond_block"
+        }
+    },
+   
+    "result":
+    {
+        "item": "cacticraft:raw_silicate",
+        "count": 1
+    }
+}

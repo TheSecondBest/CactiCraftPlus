@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "AAA",
+        "ABA",
+        "AAA"
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+			"tag": "cacticraft:wool"
+        },
+
+        "B":
+        {
+            "item": "minecraft:magenta_dye"
+        }
+    },
+   
+    "result":
+    {
+        "item": "minecraft:magenta_wool",
+        "count": 8
+    }
+}

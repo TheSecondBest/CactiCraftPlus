@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "AAA",
+        "BCB",
+        "BDB"
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+            "item": "cacticraft:planks"
+        },
+        "B":
+        {
+            "item": "minecraft:cobblestone"
+        },
+        "C":
+        {
+            "item": "minecraft:iron_ingot"
+        },
+        "D":
+        {
+            "item": "minecraft:redstone_dust"
+        }
+    },
+   
+    "result":
+    {
+        "item": "minecraft:piston",
+        "count": 1
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "BAB",
+        "BAB"
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+            "item": "minecraft:paper"
+        },
+
+        "B":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+   
+    "result":
+    {
+        "item": "cacticraft:shoji",
+        "count": 6
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "A",
+        "A",
+        "A"
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+            "item": "minecraft:"
+        }
+    },
+   
+    "result":
+    {
+        "item": "cacticraft:wedge_",
+        "count": 6
+    }
+}

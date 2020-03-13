@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "B B",
+        "B B",
+        "AAA"
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+			"tag": "cacticraft:planks"
+        },
+        "B":
+        {
+			"tag": "minecraft:wooden_fences"
+        }
+    },
+   
+    "result":
+    {
+        "item": "minecraft:composter",
+        "count": 1
+    }
+}

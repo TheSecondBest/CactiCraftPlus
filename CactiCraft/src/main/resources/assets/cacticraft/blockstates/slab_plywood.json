@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "cacticraft:block/slab_plywood" },
+        "type=top": { "model": "cacticraft:block/slab_plywood_top" },
+        "type=double": { "model": "cacticraft:block/plywood_planks" }
+    }
+}

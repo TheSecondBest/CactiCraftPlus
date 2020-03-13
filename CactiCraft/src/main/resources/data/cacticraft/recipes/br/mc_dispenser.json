@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "BC ",
+        "BAC",
+        "BC"
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+            "item": "minecraft:dropper"
+        },
+
+		"B":
+        {
+            "item": "minecraft:string"
+        },
+		
+        "C":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+   
+    "result":
+    {
+        "item": "minecraft:end_stone",
+        "count": 8
+    }
+}

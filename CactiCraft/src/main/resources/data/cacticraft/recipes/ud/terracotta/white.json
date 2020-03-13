@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "AAA",
+        "ABA",
+        "AAA"
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+			"tag": "cacticraft:terracotta"
+        },
+
+        "B":
+        {
+            "item": "minecraft:white_dye"
+        }
+    },
+   
+    "result":
+    {
+        "item": "minecraft:white_terracotta",
+        "count": 8
+    }
+}

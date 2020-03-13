@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "AAA",
+        "A A",
+        "AAA"
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+            "item": "cacticraft:plywood"
+        }
+    },
+   
+    "result":
+    {
+        "item": "minecraft:chest",
+        "count": 1
+    }
+}

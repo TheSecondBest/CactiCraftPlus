@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "BB",
+        "AA"
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+            "tag": "cacticraft:planks"
+        },
+        "B":
+        {
+            "item": "minecraft:string"
+        }
+    },
+   
+    "result":
+    {
+        "item": "minecraft:loom",
+        "count": 1
+    }
+}

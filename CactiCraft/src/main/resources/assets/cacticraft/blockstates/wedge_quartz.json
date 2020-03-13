@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "cacticraft:block/wedge_quartz", "uvlock": true },
+        "facing=east":  { "model": "cacticraft:block/wedge_quartz", "y": 90, "uvlock": true },
+        "facing=south": { "model": "cacticraft:block/wedge_quartz", "y": 180, "uvlock": true },
+        "facing=west":  { "model": "cacticraft:block/wedge_quartz", "y": 270, "uvlock": true }
+    }
+}

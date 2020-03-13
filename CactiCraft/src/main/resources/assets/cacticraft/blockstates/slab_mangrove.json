@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "cacticraft:block/slab_mangrove" },
+        "type=top": { "model": "cacticraft:block/slab_mangrove_top" },
+        "type=double": { "model": "cacticraft:block/mangrove_planks" }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "BB",
+        "AA",
+        "AA"
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+			"tag": "cacticraft:planks"
+        },
+        "B":
+        {
+            "item": "minecraft:paper"
+        }
+    },
+   
+    "result":
+    {
+        "item": "minecraft:cartography_table",
+        "count": 1
+    }
+}

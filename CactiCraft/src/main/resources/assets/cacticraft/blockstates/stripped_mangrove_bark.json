@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y": { "model": "cacticraft:block/stripped_mangrove_bark" },
+        "axis=z": { "model": "cacticraft:block/stripped_mangrove_bark", "x": 90 },
+        "axis=x": { "model": "cacticraft:block/stripped_mangrove_bark", "x": 90, "y": 90 }
+    }
+}

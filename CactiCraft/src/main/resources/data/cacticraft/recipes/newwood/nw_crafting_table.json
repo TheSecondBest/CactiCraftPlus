@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "AA",
+        "AA"
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+			"tag": "cacticraft:planks"
+        }
+    },
+   
+    "result":
+    {
+        "item": "minecraft:crafting_table",
+        "count": 1
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "AAA",
+        "ABA",
+        "AAA"
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+            "tag": "cacticraft:planks"
+        },
+        "B":
+        {
+            "item": "minecraft:redstone_dust"
+        }
+    },
+   
+    "result":
+    {
+        "item": "minecraft:chest",
+        "count": 1
+    }
+}

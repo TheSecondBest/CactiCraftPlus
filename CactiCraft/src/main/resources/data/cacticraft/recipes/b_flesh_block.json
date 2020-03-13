@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "AA",
+        "AA"
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+            "item": "minecraft:rotten_flesh"
+        }
+    },
+   
+    "result":
+    {
+        "item": "cacticraft:flesh_block",
+        "count": 1
+    }
+}

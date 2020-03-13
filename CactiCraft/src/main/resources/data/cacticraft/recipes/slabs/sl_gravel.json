@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "AAA"
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+            "item": "minecraft:gravel"
+        }
+    },
+   
+    "result":
+    {
+        "item": "cacticraft:dirt_gravel",
+        "count": 6
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+
+    "pattern": 
+    [
+        " B ",
+        " AB",
+        "A"
+    ],
+
+    "key": 
+    {
+        "A": 
+        {
+            "item": "minecraft:stick"
+        },
+        
+        "B": 
+        {
+            "item": "minecraft:iron_ingot"
+        },
+    },
+
+    "result": 
+    {
+        "item": "cacticraft:wrench",
+        "count": 1
+    }
+}

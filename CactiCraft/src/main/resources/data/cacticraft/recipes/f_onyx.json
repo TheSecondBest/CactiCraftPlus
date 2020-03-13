@@ -1,0 +1,12 @@
+{
+	"type": "smelting", 
+	
+	"ingredient": 
+	{ 
+		"item": "minecraft:quartz" 
+	},
+
+	"result": "cacticraft:onyx", 
+	"experience": 0.1, 
+	"cookingtime": 300 
+}

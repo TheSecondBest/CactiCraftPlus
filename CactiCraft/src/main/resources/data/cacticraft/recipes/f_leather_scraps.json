@@ -1,0 +1,12 @@
+{
+	"type": "smelting", 
+	
+	"ingredient": 
+	{ 
+		"item": "minecraft:rotten_flesh" 
+	},
+
+	"result": "cacticraft:leather_scraps", 
+	"experience": 0.1, 
+	"cookingtime": 300 
+}

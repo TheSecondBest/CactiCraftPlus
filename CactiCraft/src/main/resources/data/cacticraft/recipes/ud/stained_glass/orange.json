@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "AAA",
+        "ABA",
+        "AAA"
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+			"tag": "cacticraft:stained_glass"
+        },
+
+        "B":
+        {
+            "item": "minecraft:orange_dye"
+        }
+    },
+   
+    "result":
+    {
+        "item": "minecraft:orange_stained_glass",
+        "count": 8
+    }
+}

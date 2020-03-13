@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "ABA",
+        "ABA"
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+            "item": "minecraft:paper"
+        },
+
+        "B":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+   
+    "result":
+    {
+        "item": "cacticraft:shoji_large",
+        "count": 6
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "AAA"
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+            "item": "cacticraft:plywood"
+        }
+    },
+   
+    "result":
+    {
+        "item": "cacticraft:plywood_slab",
+        "count": 6
+    }
+}

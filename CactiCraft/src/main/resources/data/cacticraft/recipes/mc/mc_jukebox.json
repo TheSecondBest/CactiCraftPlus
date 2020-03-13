@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "AAA",
+        "ABA",
+        "AAA"
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+            "tag": "cacticraft:planks"
+        },
+        
+        "B":
+        [
+        {
+	        "tag": "forge:gems/diamond"
+        },
+        {
+            "item": "cacticraft:flint_glass"
+        }
+        ]                
+    },
+   
+    "result":
+    {
+        "item": "minecraft:jukebox",
+        "count": 1
+    }
+}

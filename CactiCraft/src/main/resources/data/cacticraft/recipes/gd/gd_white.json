@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+    
+    {
+      "item": "cacticraft:guano"
+    },
+    
+    {
+      "item": "minecraft:white_dye"
+    }
+    
+    ],
+ 
+    "result":
+    {
+        "item": "minecraft:white_dye",
+        "count": 2
+    }
+}

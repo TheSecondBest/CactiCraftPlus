@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "minecraft:glazed_terracotta"
+  },
+  "result": "minecraft:terracotta",
+  "count": 1
+}

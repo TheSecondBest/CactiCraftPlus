@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "minecraft:oak_planks"
+  },
+  "result": "minecraft:oak_stairs",
+  "count": 1
+}

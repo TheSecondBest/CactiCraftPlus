@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "ABA",
+        "AAA"
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+            "item": "minecraft:iron"
+        },
+
+        "B":
+        {
+            "item": "minecraft:furnace"
+        }
+    },
+   
+    "result":
+    {
+        "item": "minecraft:end_stone",
+        "count": 8
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "cacticraft:block/slab_dirt" },
+        "type=top": { "model": "cacticraft:block/slab_dirt_top" },
+        "type=double": { "model": "block/dirt" }
+    }
+}

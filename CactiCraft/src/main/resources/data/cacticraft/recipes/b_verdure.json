@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "AAA",
+        "AAA",
+        "AAA"
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+        	"tag": "cacticraft:plants"
+        }
+    },
+   
+    "result":
+    {
+        "item": "cacticraft:verdure",
+        "count": 1
+    }
+}

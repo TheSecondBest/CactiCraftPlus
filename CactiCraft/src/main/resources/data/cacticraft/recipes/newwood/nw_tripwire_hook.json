@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "C",
+        "B",
+        "A"
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+			"tag": "cacticraft:planks"
+        },
+        "B":
+        {
+            "item": "minecraft:stick"
+        },
+        "C":
+        {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+   
+    "result":
+    {
+        "item": "minecraft:tripwire_hook",
+        "count": 1
+    }
+}

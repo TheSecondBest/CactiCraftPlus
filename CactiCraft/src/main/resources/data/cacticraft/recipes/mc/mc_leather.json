@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "AA",
+        "AA"
+    ],
+   
+    "key":
+    {
+        "A":
+        [
+        {
+        	"item": "cacticraft:leather_scraps"
+        }
+        ]
+    },
+   
+    "result":
+    {
+        "item": "minecraft:leather",
+        "count": 1
+    }
+}

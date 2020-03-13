@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "cacticraft:plywood_planks"
+  },
+  "result": "cacticraft:plywood_slab",
+  "count": 2
+}

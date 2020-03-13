@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "BCB",
+        "A A"
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+            "tag": "cacticraft:planks"
+        },
+        "A":
+        {
+            "item": "minecraft:stick"
+        },
+        "A":
+        {
+            "item": "minecraft:tone_slab"
+        }
+    },
+   
+    "result":
+    {
+        "item": "minecraft:grindstone",
+        "count": 1
+    }
+}

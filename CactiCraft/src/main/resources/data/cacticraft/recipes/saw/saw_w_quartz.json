@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:quartz"
+  },
+  "result": "cacticraft:wedge_quartz",
+  "count": 2
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "AA",
+        "AA"
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+   
+    "result":
+    {
+        "item": "cacticraft:plywood",
+        "count": 2
+    }
+}

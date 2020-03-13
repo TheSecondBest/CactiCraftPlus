@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "cacticraft:verdure"
+  },
+  "result": "minecraft:verdure_slab",
+  "count": 2
+}

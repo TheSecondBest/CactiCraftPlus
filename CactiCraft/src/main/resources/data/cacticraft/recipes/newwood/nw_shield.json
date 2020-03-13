@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "ABA",
+        "AAA",
+        " A "
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+            "tag": "cacticraft:planks"
+        },
+        "A":
+        {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+   
+    "result":
+    {
+        "item": "minecraft:shield",
+        "count": 1
+    }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "cacticraft:mangrove_planks"
+  },
+  "result": "cacticraft:wedge_mangrove",
+  "count": 2
+}

@@ -1,0 +1,117 @@
+{
+
+    "item.cacticraft.flint_hatchet": "Flint Hatchet",
+    "item.cacticraft.flint_pick": "Flint Pick",
+    "item.cacticraft.flint_dagger": "Flint Dagger",
+
+    "item.cacticraft.iron_hammer": "Iron Hammer",
+    "item.cacticraft.kimberlite_hammer": "Kimberlite Hammer",
+
+    "item.cacticraft.kimberlite_pickaxe": "Kimberlite Pickaxe",
+    "item.cacticraft.kimberlite_sword": "Kimberlite Sword",
+    "item.cacticraft.kimberlite_hoe": "Kimberlite Hoe",
+    "item.cacticraft.kimberlite_axe": "Kimberlite Axe",
+    "item.cacticraft.kimberlite_spade": "Kimberlite Spade",
+
+    "item.cacticraft.longbow": "Longbow",
+    "item.cacticraft.composite_bow": "Composite Bow",
+    "item.cacticraft.cactistick": "CactiStick",
+    "item.cacticraft.wrench": "Wrench",
+
+
+    "block.cacticraft.charcoal_block": "Charcoal Block",
+    "block.cacticraft.compost": "Compost",
+    "block.cacticraft.flesh_block": "Flesh Block",
+    "block.cacticraft.great_lamp": "Great Lamp",
+    "block.cacticraft.hellforged_bricks": "Hellforged Bricks",
+    "block.cacticraft.kimberlite_block": "Block of Kimberlite",
+    "block.cacticraft.flint_block": "Block of Flint",
+    "block.cacticraft.onyx_block": "Block of Onyx",
+    "block.cacticraft.mangrove_log": "Mangrove Log",
+    "block.cacticraft.stripped_mangrove_log": "Stripped Mangrove Log",
+    "block.cacticraft.mangrove_wood": "Mangrove Bark",
+    "block.cacticraft.stripped_mangrove_wood": "Stripped Mangrove Bark",
+    "block.cacticraft.plywood_planks": "Plywood",
+    "block.cacticraft.mangrove_planks": "Mangrove Planks",
+    "block.cacticraft.tan_wool": "Tan Wool",
+    "block.cacticraft.verdure": "Verdure Block",
+    
+    "block.cacticraft.torch_lever": "Torch Lever",
+    "block.cacticraft.shoji": "Shoji",
+    "block.cacticraft.shoji_large": "Large Shoji",
+    "block.cacticraft.iron_gate": "Iron Gate",
+    "block.cacticraft.chain": "Chain",
+
+    "block.cacticraft.slab_dirt": "Dirt Slab",
+    "block.cacticraft.slab_verdure": "Verdure Slab",
+    "block.cacticraft.slab_plywood": "Plywood Slab",
+    "block.cacticraft.slab_mangrove": "Mangrove Slab",
+
+    "block.cacticraft.stairs_verdure": "Verdure Stairs",
+    "block.cacticraft.stairs_plywood": "Plywood Stairs",
+    "block.cacticraft.stairs_mangrove": "Mangrove Stairs",
+
+    "block.cacticraft.wedge_cobblestone": "Cobblestone Wedge",
+    "block.cacticraft.wedge_stone": "Stone Wedge",
+    "block.cacticraft.wedge_smooth_stone": "Smooth Stone Wedge",
+    "block.cacticraft.wedge_mossy_cobblestone": "Mossy Cobblestone Wedge",
+    "block.cacticraft.wedge_stone_bricks": "Stone Bricks Wedge",
+    "block.cacticraft.wedge_mossy_stone_bricks": "Mossy Stone Bricks Wedge",
+    "block.cacticraft.wedge_andesite": "Andesite Wedge",
+    "block.cacticraft.wedge_polished_andesite": "Polished Andesite Wedge",
+    "block.cacticraft.wedge_diorite": "Diorite Wedge",
+    "block.cacticraft.wedge_polished_diorite": "Polished Diorite Wedge",
+    "block.cacticraft.wedge_granite": "Granite Wedge",
+    "block.cacticraft.wedge_polished_granite": "Polished Granite Wedge",
+    "block.cacticraft.wedge_sandstone": "Sandstone Wedge",
+    "block.cacticraft.wedge_cut_sandstone": "Cut Sandstone Wedge",
+    "block.cacticraft.wedge_smooth_sandstone": "Smooth Sandstone Wedge",
+    "block.cacticraft.wedge_red_sandstone": "Red Sandstone Wedge",
+    "block.cacticraft.wedge_cut_red_sandstone": "Cut Red Sandstone Wedge",
+    "block.cacticraft.wedge_smooth_red_sandstone": "Smooth Red Sandstone Wedge",
+    "block.cacticraft.wedge_bricks": "bricks Wedge",
+    "block.cacticraft.wedge_prismarine": "Prismarine Wedge",
+    "block.cacticraft.wedge_prismarine_bricks": "Prismarine Bricks Wedge",
+    "block.cacticraft.wedge_dark_prismarine": "Dark Prismarine Wedge",
+    "block.cacticraft.wedge_nether_bricks": "Nether Bricks Wedge",
+    "block.cacticraft.wedge_red_nether_bricks": "Red Nether Bricks Wedge",
+    "block.cacticraft.wedge_quartz": "Quartz Wedge",
+    "block.cacticraft.wedge_smooth_quartz": "Smooth Quartz Wedge",
+    "block.cacticraft.wedge_purpur": "Purpur Wedge",
+    "block.cacticraft.wedge_end_stone_bricks": "End Stone Bricks Wedge",
+    "block.cacticraft.wedge_verdure": "Verdure Wedge",
+    "block.cacticraft.wedge_plywood": "Plywood Wedge",
+    "block.cacticraft.wedge_mangrove": "Mangrove Wedge",
+    "block.cacticraft.wedge_spruce": "Spruce Wedge",
+    "block.cacticraft.wedge_oak": "Oak Wedge",
+    "block.cacticraft.wedge_birch": "Birch Wedge",
+    "block.cacticraft.wedge_jungle": "Jungle Wedge",
+    "block.cacticraft.wedge_acacia": "Acacia Wedge",
+    "block.cacticraft.wedge_dark_oak": "Dark Oak Wedge",
+
+
+
+
+    "item.cacticraft.leather_scraps": "Leather Scraps",
+    "item.cacticraft.jerky": "Jerky",
+    "item.cacticraft.onyx": "Onyx",
+    "item.cacticraft.souldust": "Soul Flakes",
+    "item.cacticraft.guano": "Guano",
+    "item.cacticraft.tan_dye": "Tan Dye",
+    "item.cacticraft.chainlinks": "Chainlinks",
+
+
+    "item.cacticraft.raw_silicate": "Raw Silicate",
+    "item.cacticraft.kimberlite": "Kimberlite",
+
+
+
+    "itemGroup.cactitab": "CactiCraft",
+    "itemGroup.cactitab_building": "CactiCraft Building"
+
+
+
+
+
+
+}

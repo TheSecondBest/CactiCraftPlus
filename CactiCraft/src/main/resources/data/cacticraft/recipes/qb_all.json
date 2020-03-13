@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "BBB",
+        "AAA"
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+			"tag": "cacticraft:planks"
+		},
+
+        "B":
+        {
+			"tag": "cacticraft:wool"
+		}
+    },
+   
+    "result":
+    {
+        "item": "minecraft:brown_bed",
+        "count": 1
+    }
+}

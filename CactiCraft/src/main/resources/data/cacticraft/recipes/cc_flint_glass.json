@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "CAC",
+        "ABA",
+        "CAC"
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+            "item": "minecraft:flint"
+        },
+
+        "B":
+        {
+            "item": "minecraft:quartz"
+        },
+
+        "C":
+        {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+   
+    "result":
+    {
+        "item": "cacticraft:flint_glass",
+        "count": 1
+    }
+}

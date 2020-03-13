@@ -1,0 +1,27 @@
+modLoader="javafml" #mandatory
+loaderVersion="[28,)" #mandatory
+[[mods]] #mandatory
+
+modId="cacticraft" #mandatory
+version="0.2.0" #mandatory
+displayName="CactiCraft" #mandatory
+credits="Thanks for this mod goes to the Forge Team, HarryTalks, Choonster, MrCrayfish, Xisuma, and LoreMaster" #optional
+authors="TheSecondBest" #optional
+description='''
+A sort of mix match of features I've always wanted in MineCraft and features I've always wanted to change. 
+This mod has blocks, items, and a features either inspired or ported from the 1.12 Quark mod, which is a work of art.
+Some of the resources were taken from Xisuma's VanillaTweaks, because I'm too lazy to write all that code for the exact same result.
+'''
+
+[[dependencies.cacticraft]] #optional
+    modId="forge" #mandatory
+    mandatory=true #mandatory
+    versionRange="[28,)" #mandatory
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.cacticraft]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2]"
+    ordering="NONE"
+    side="BOTH"

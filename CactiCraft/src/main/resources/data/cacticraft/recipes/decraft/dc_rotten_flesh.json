@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+ 
+    {
+      "item": "cacticraft:flesh_block"
+    }
+
+    ],
+ 
+    "result":
+    {
+        "item": "minecraft:rotten_flesh",
+        "count": 4
+    }
+}

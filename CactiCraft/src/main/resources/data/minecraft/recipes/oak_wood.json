@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "AA",
+        "AA"
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+            "item": "minecraft:oak_log"
+        }
+    },
+   
+    "result":
+    {
+        "item": "minecraft:oak_wood",
+        "count": 4
+    }
+}

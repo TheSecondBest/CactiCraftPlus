@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "BB",
+        "AA",
+        "AA"
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+            "tag": "cacticraft:planks"
+        },
+        "A":
+        {
+            "tag": "miencraft:flint"
+        }
+    },
+   
+    "result":
+    {
+        "item": "minecraft:fletching_table",
+        "count": 1
+    }
+}

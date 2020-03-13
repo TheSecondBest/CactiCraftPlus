@@ -1,0 +1,7 @@
+{
+    "parent": "cacticraft:block/wedge",
+    "textures": 
+    {
+        "texture": "cacticraft:block/planks_plywood"
+    }
+}

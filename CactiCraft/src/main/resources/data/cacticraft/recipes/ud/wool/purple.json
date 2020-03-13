@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "AAA",
+        "ABA",
+        "AAA"
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+			"tag": "cacticraft:wool"
+        },
+
+        "B":
+        {
+            "item": "minecraft:purple_dye"
+        }
+    },
+   
+    "result":
+    {
+        "item": "minecraft:purple_wool",
+        "count": 8
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "A",
+        "A",
+        "B"
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+            "tag": "cacticraft:stones"
+        },
+
+        "B":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+   
+    "result":
+    {
+        "item": "minecraft:stone_sword",
+        "count": 1
+    }
+}

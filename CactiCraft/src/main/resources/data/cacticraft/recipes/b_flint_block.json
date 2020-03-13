@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "AA",
+        "AA"
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+        	"item": "minecraft:flint"
+        }
+    },
+   
+    "result":
+    {
+        "item": "cacticraft:flint_block",
+        "count": 1
+    }
+}

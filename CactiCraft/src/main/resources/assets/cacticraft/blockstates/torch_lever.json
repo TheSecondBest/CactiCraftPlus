@@ -1,0 +1,28 @@
+{
+    "variants": {
+        "face=ceiling,facing=north,powered=false": { "model": "cacticraft:block/torch_lever", "x": 180 },
+        "face=ceiling,facing=east,powered=false":  { "model": "cacticraft:block/torch_lever", "x": 180 },
+        "face=ceiling,facing=south,powered=false": { "model": "cacticraft:block/torch_lever", "x": 180 },
+        "face=ceiling,facing=west,powered=false":  { "model": "cacticraft:block/torch_lever", "x": 180 },
+        "face=floor,facing=north,powered=false": { "model": "cacticraft:block/torch_lever" },
+        "face=floor,facing=east,powered=false":  { "model": "cacticraft:block/torch_lever" },
+        "face=floor,facing=south,powered=false": { "model": "cacticraft:block/torch_lever" },
+        "face=floor,facing=west,powered=false":  { "model": "cacticraft:block/torch_lever" },
+        "face=wall,facing=north,powered=false": { "model": "cacticraft:block/torch_lever_wall", "y": 270 },
+        "face=wall,facing=east,powered=false":  { "model": "cacticraft:block/torch_lever_wall" },
+        "face=wall,facing=south,powered=false": { "model": "cacticraft:block/torch_lever_wall", "y": 90 },
+        "face=wall,facing=west,powered=false":  { "model": "cacticraft:block/torch_lever_wall", "y": 180 },
+        "face=ceiling,facing=north,powered=true": { "model": "cacticraft:block/torch_lever_on", "x": 180 },
+        "face=ceiling,facing=east,powered=true":  { "model": "cacticraft:block/torch_lever_on", "x": 180 },
+        "face=ceiling,facing=south,powered=true": { "model": "cacticraft:block/torch_lever_on", "x": 180 },
+        "face=ceiling,facing=west,powered=true":  { "model": "cacticraft:block/torch_lever_on", "x": 180 },
+        "face=floor,facing=north,powered=true": { "model": "cacticraft:block/torch_lever_on" },
+        "face=floor,facing=east,powered=true":  { "model": "cacticraft:block/torch_lever_on" },
+        "face=floor,facing=south,powered=true": { "model": "cacticraft:block/torch_lever_on" },
+        "face=floor,facing=west,powered=true":  { "model": "cacticraft:block/torch_lever_on" },
+        "face=wall,facing=north,powered=true": { "model": "cacticraft:block/torch_lever_wall_on", "y": 270 },
+        "face=wall,facing=east,powered=true":  { "model": "cacticraft:block/torch_lever_wall_on" },
+        "face=wall,facing=south,powered=true": { "model": "cacticraft:block/torch_lever_wall_on", "y": 90 },
+        "face=wall,facing=west,powered=true":  { "model": "cacticraft:block/torch_lever_wall_on", "y": 180 }
+    }
+}

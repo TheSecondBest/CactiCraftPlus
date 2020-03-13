@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "cacticraft:block/wedge_polished_diorite", "uvlock": true },
+        "facing=east":  { "model": "cacticraft:block/wedge_polished_diorite", "y": 90, "uvlock": true },
+        "facing=south": { "model": "cacticraft:block/wedge_polished_diorite", "y": 180, "uvlock": true },
+        "facing=west":  { "model": "cacticraft:block/wedge_polished_diorite", "y": 270, "uvlock": true }
+    }
+}
